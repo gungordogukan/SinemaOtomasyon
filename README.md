@@ -1,7 +1,6 @@
 # SinemaOtomasyon
 [Rapor.pdf](https://github.com/gungordogukan/SinemaOtomasyon/files/12910035/Rapor.pdf)
 
-![image](https://github.com/gungordogukan/SinemaOtomasyon/assets/97365308/b436c487-93a9-443d-aa9c-eda4d9fcc8be)
 ![image](https://github.com/gungordogukan/SinemaOtomasyon/assets/97365308/c73d45b7-b6bb-4fa6-9d88-ede320bb9348)
 ![image](https://github.com/gungordogukan/SinemaOtomasyon/assets/97365308/a5fe0a60-cdea-4b51-9c4c-b584103b6129)
 ![image](https://github.com/gungordogukan/SinemaOtomasyon/assets/97365308/d474b763-e034-4080-a451-1e6caa908c42)
